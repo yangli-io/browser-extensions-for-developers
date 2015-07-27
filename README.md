@@ -14,6 +14,8 @@ A compiled list of useful extensions for developers
   * Lets you view what fonts are being used on a website easily
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
   * Gives you a set of tools to change/view website information 
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+  * Lets you organise JSON pages
 
 ##Mozilla Firefox
 * [Firebug](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
