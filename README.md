@@ -14,5 +14,5 @@ A compiled list of useful extensions for developers
   * Lets you view what fonts are being used on a website easily
 
 ##Mozilla Firefox
-* Firebug(https://addons.mozilla.org/en-us/firefox/addon/firebug/)
+* [Firebug](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
   * Adds various debuging and console tools to the existing developer tools 
