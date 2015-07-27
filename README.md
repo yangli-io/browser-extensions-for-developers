@@ -12,6 +12,8 @@ A compiled list of useful extensions for developers
   * Allows ReactJS developers to view components in developer tools
 * [What font](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
   * Lets you view what fonts are being used on a website easily
+* [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+  * Gives you a set of tools to change/view website information 
 
 ##Mozilla Firefox
 * [Firebug](https://addons.mozilla.org/en-us/firefox/addon/firebug/)
